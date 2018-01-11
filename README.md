@@ -1,2 +1,7 @@
-# MiniProjectsWebDevelopment
-Collection of YouTube mini-projects that I did (copied!!)
+# Mini Projects 
+<ul>
+  <li>Filterable List with Vanilla JS </li>
+</ul>
+  
+
+    
